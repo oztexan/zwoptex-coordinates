@@ -69,29 +69,29 @@ Zwoptex inputs a lot of variables into the system for you to use. Here's a list:
 
 ##### Sprite
 
-* name - sprite name
-* nameWithoutExtension - sprite name without extension
-* sourceSize - source size as "{<width>, <height>}"
-* sourceSizeHeight - source size width
-* sourceSizeHeight - source size height
-* sourceColorRect - source color rect as "{{<x>, <y>}, {<width>, <height>}}"
-* sourceColorRectX - source color rect x
-* sourceColorRectY - source color rect y
-* sourceColorRectWidth - source color rect width
-* sourceColorRectHeight - source color rect height
-* size - size as "{<width>, <height>}"
-* sizeWidth - size width
-* sizeHeight - size height
-* offset - offset as "{<x>, <y>}"
-* offsetX - offset x
-* offsetY - offset y
-* isTrimmed - if sprite is trimmed
-* isRotated - if sprite is rotated
-* textureRect - textureRect as "{{<x>, <y>}, {<width>, <height>}}"
-* textureRectX - texture rect x
-* textureRectY - texture rect y
-* textureRectWidth - texture rect width
-* textureRectHeight - texture rect height
-* aliases - array of alias strings
+* ```name``` - sprite name
+* ```nameWithoutExtension``` - sprite name without extension
+* ```sourceSize``` - source size as "{<width>, <height>}"
+* ```sourceSizeHeight``` - source size width
+* ```sourceSizeHeight``` - source size height
+* ```sourceColorRect``` - source color rect as "{{<x>, <y>}, {<width>, <height>}}"
+* ```sourceColorRectX``` - source color rect x
+* ```sourceColorRectY``` - source color rect y
+* ```sourceColorRectWidth``` - source color rect width
+* ```sourceColorRectHeight``` - source color rect height
+* ```size``` - size as "{<width>, <height>}"
+* ```sizeWidth``` - size width
+* ```sizeHeight``` - size height
+* ```offset``` - offset as "{<x>, <y>}"
+* ```offsetX``` - offset x
+* ```offsetY``` - offset y
+* ```isTrimmed``` - if sprite is trimmed
+* ```isRotated``` - if sprite is rotated
+* ```textureRect``` - textureRect as "{{<x>, <y>}, {<width>, <height>}}"
+* ```textureRectX``` - texture rect x
+* ```textureRectY``` - texture rect y
+* ```textureRectWidth``` - texture rect width
+* ```textureRectHeight``` - texture rect height
+* ```aliases``` - array of alias strings
 
 
