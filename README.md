@@ -27,11 +27,11 @@ The coordinates syntax is based on <a href="http://mattgemmell.com/">Matt Gemmel
 
 ##### If / If Not Statements
 ```
-{% if currentLoop.first %}<{% /endif %}
+{% if currentLoop.first %}<{% /if %}
 
-{% if not currentLoop.first %},{% /endif %}
+{% if not currentLoop.first %},{% /if %}
 
-{% if currentLoop.last %}<{% /endif %}
+{% if currentLoop.last %}<{% /if %}
 ```
 
 Matt Gemmell's page has more information on all the syntax details if you need more than for loops and if statements.
